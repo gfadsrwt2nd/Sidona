@@ -2,7 +2,7 @@
 
 <p>Dibuat menggunakan Html, CSS & PHP dan MySQL sebagai databasenya</p>
 
-## Version 1.0
+## Version 1.0.1
 ## Features
 <p>
   1. Halaman Beranda <br>
@@ -12,7 +12,6 @@
   5. Halaman Galeri <br>
   6. Halaman Kontak <br>
 </p>
-
 ## Installation
 
 <p>
