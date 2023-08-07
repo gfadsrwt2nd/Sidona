@@ -4,6 +4,14 @@
 
 ## Installation
 
+<p>
+  1. Ekstrak file sidona.zip<br>
+  2. Salin ke folder C:\xampp\htdocs
+  3. Buat database baru sidona
+  4. Upload database yang berada di folder db
+  5. localhost/sidona/
+</p>
+
 
 ![logo](https://github.com/gfadsrwt2nd/Sidona/assets/55633963/7bbc0584-3953-4c46-979b-8acab84389bd)
 ![logo](https://github.com/gfadsrwt2nd/Sidona/assets/55633963/c54368d1-e165-4099-bdf5-ff9da36cdc00)
