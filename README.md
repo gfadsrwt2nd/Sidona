@@ -1,6 +1,17 @@
-# Sistem Informasi Donasi
+# Sistem Informasi Donasi 
 
 <p>Dibuat menggunakan Html, CSS & PHP dan MySQL sebagai databasenya</p>
+
+## Version 1.0
+## Features
+<p>
+  1. Halaman Beranda <br>
+  2. Halaman Tentang <br>
+  3. Halaman Donasi <br>
+  4. Halaman Riwayat Donasi <br>
+  5. Halaman Galeri <br>
+  6. Halaman Kontak <br>
+</p>
 
 ## Installation
 
