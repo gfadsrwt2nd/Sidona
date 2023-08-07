@@ -6,9 +6,9 @@
 
 <p>
   1. Ekstrak file sidona.zip<br>
-  2. Salin ke folder C:\xampp\htdocs
-  3. Buat database baru sidona
-  4. Upload database yang berada di folder db
+  2. Salin ke folder C:\xampp\htdocs <br>
+  3. Buat database baru sidona <br>
+  4. Upload database yang berada di folder db <br>
   5. localhost/sidona/
 </p>
 
